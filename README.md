@@ -53,6 +53,7 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 | Integrante | Compromiso SMART |
 |---|---|
 | [Tu Nombre] | [Tu compromiso personal en el proyecto] |
+| Josué Villa | Me comprometo a investigar, evaluar y definir la arquitectura de hardware/tecnología de captura de datos (sensores, lectores de identificación o dispositivos de registro) para el prototipo del Hub Providencia, entregando un informe técnico comparativo de al menos 2 alternativas tecnológicas viables y de bajo costo antes de finalizar la semana 3 del proyecto. |
 
 ## Usuarios y contexto
 Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, junto con el equipo de gestión del edificio.
