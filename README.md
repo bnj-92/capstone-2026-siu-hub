@@ -18,6 +18,8 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 | [Tu Nombre] | [Tu Carrera] | [Tu Rol] | [@tu_usuario] |
 | [Compañero 1] | [Carrera] | [Rol] | [Pendiente] |
 | [Compañero 2] | [Carrera] | [Rol] | [Pendiente] |
+| [Compañero 3] | [Carrera] | [Rol] | [Pendiente] |
+| Josué Villa | Ing. Civil Electrónica | [Rol] | [Pendiente] |
 
 ## Valores del equipo
 - Compromiso y responsabilidad
@@ -52,6 +54,8 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 ## Compromisos individuales
 | Integrante | Compromiso SMART |
 |---|---|
+| [Tu Nombre] | [Tu compromiso personal en el proyecto] |
+| [Tu Nombre] | [Tu compromiso personal en el proyecto] |
 | [Tu Nombre] | [Tu compromiso personal en el proyecto] |
 | Josué Villa | Me comprometo a investigar, evaluar y definir la arquitectura de hardware/tecnología de captura de datos (sensores, lectores de identificación o dispositivos de registro) para el prototipo del Hub Providencia, entregando un informe técnico comparativo de al menos 2 alternativas tecnológicas viables y de bajo costo antes de finalizar la semana 3 del proyecto. |
 
