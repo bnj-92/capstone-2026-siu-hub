@@ -78,7 +78,7 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 ## Decisiones relevantes
 | Fecha | Decisión | Evidencia o criterio utilizado |
 |---|---|---|
-| [Fecha hoy] | Creación de la estructura base en GitHub | Organización de la bitácora del proyecto Capstone |
+| 21-08-2026 | Creación de la estructura base en GitHub | Organización de la bitácora del proyecto Capstone |
 
 ## Próximo hito
 Completar la primera sesión de la bitácora (`bitacora/S01.md`) y realizar el levantamiento inicial de información con el Hub Providencia.
