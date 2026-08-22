@@ -16,7 +16,7 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
 | [Tu Nombre] | [Tu Carrera] | [Tu Rol] | [@tu_usuario] |
-| [Compañero 1] | [Carrera] | [Rol] | [Pendiente] |
+| Amanda Parraguez | Ing. Civil Industrial | [Rol] | [Pendiente] |
 | [Compañero 2] | [Carrera] | [Rol] | [Pendiente] |
 | [Compañero 3] | [Carrera] | [Rol] | [Pendiente] |
 | Josué Villa | Ing. Civil Electrónica | [Rol] | [Pendiente] |
