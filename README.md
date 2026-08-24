@@ -74,7 +74,7 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 
 ## Evidencias principales
 - [Foto del equipo](foto_grupal.jpeg)
-- [Contrato del equipo](contrato_del_equipo.docx)
+- [Contrato del equipo](contrato-equipo.docx)
 
 ## Decisiones relevantes
 | Fecha | Decisión | Evidencia o criterio utilizado |
