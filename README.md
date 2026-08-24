@@ -15,10 +15,10 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 ## Equipo
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
-| Amanda Parraguez | Ing. Civil Industrial | [Directora de proyecto] | [@amandaparraguez-blip] |
-| Benjamín Oliva | [Ing. Civil en computación e Informática] | [Desarrollo de software] | [@bnj-92] |
-| Gerzon Toro | [Ing. Civil en computación e Informática] | [Arquitecto de datos] | [Pendiente] |
-| Josué Villa | Ing. Civil Electrónica | [Especialista en hardware] | [@jvilla-02] |
+| Amanda Parraguez | Ing. Civil Industrial | Directora de proyecto | [@amandaparraguez-blip] |
+| Benjamín Oliva | Ing. Civil en computación e Informática | Desarrollo de software | [@bnj-92] |
+| Gerzon Toro | Ing. Civil en computación e Informática | Arquitecto de datos | [Pendiente] |
+| Josué Villa | Ing. Civil Electrónica | Especialista en hardware | [@jvilla-02] |
 
 ## Valores del equipo
 - Compromiso y responsabilidad
@@ -61,9 +61,8 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 ## Plan inicial
 | Actividad | Responsable(s) | Fecha | Estado |
 |---|---|---|---|
-| Crear repositorio y estructurar README inicial | [Tu Nombre] | [Fecha hoy] | Completado |
-| Definición de identidad del equipo y roles | [Equipo] | [Fecha] | En proceso |
-| Levantamiento de información e investigación del flujo | [Equipo] | [Fecha] | Pendiente |
+| Definición de identidad del equipo y roles | [Equipo] | 24-08-2026 | En proceso |
+| Establecer los alineamientos e ideas clave para la formulación del plan inicial del proyecto | [Equipo] | [24-08-2026] | En proceso |
 
 ## Índice de la bitácora
 - [S01 - Identidad del equipo y desafío](bitacora/S01.md)
