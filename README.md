@@ -52,7 +52,7 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 |---|---|
 | Amanda Parraguez | Me comprometo a llegar antes de la hora de inicio a las clases y reuniones del equipo durante todo el semestre, avisando el mismo día cuando no pueda, y a cumplir dentro del plazo las tareas que asuma. También me comprometo a reforzar mis conocimientos técnicos para aportar en el desarrollo del prototipo, y no solo en la documentación. |
 | [Tu Nombre] | [Tu compromiso personal en el proyecto] |
-| [Tu Nombre] | [Tu compromiso personal en el proyecto] |
+| Benjamín Oliva |Me comprometo a asistir puntualmente a las clases, entregar cada actividad y avance del proyecto dentro del plazo fijado y aportar activamente en el trabajo semanal hasta finalizar el semestre.  |
 | Josué Villa | Me comprometo a investigar, evaluar y definir la arquitectura de hardware/tecnología de captura de datos (sensores, lectores de identificación o dispositivos de registro) para el prototipo del Hub Providencia, entregando un informe técnico comparativo de al menos 2 alternativas tecnológicas viables y de bajo costo antes de finalizar la semana 3 del proyecto. |
 
 ## Usuarios y contexto
