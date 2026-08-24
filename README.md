@@ -1,4 +1,4 @@
-# [DESAFÍO 01| EDIFICIOS INTELIGENTES]
+# [DESAFÍO 01 | EDIFICIOS INTELIGENTES]
 
 ## Capstone Intermedio 2026
 **Equipo:** [S.I.U HUB]  
