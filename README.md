@@ -15,11 +15,10 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 ## Equipo
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
-| [Tu Nombre] | [Tu Carrera] | [Tu Rol] | [@tu_usuario] |
-| Amanda Parraguez | Ing. Civil Industrial | [Rol] | [Pendiente] |
-| [Compañero 2] | [Carrera] | [Rol] | [Pendiente] |
-| [Compañero 3] | [Carrera] | [Rol] | [Pendiente] |
-| Josué Villa | Ing. Civil Electrónica | [Rol] | [Pendiente] |
+| Amanda Parraguez | Ing. Civil Industrial | [Directora de proyecto] | [@amandaparraguez-blip] |
+| Benjamín Oliva | [Ing. Civil en computación e Informática] | [Desarrollo de software] | [@bnj-92] |
+| Gerzon Toro | [Ing. Civil en computación e Informática] | [Arquitecto de datos] | [Pendiente] |
+| Josué Villa | Ing. Civil Electrónica | [Especialista en hardware] | [@jvilla-02] |
 
 ## Valores del equipo
 - Compromiso y responsabilidad
@@ -47,9 +46,6 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 ### Supuestos que debemos comprobar
 - Es posible implementar un enrolamiento inicial rápido que no genere molestia en los usuarios.
 - La recopilación de datos permitirá al equipo de gestión optimizar los servicios ofrecidos.
-
-## Objetivo SMART del equipo
-[Escriban un objetivo específico, medible, alcanzable, relevante y con fecha límite]
 
 ## Compromisos individuales
 | Integrante | Compromiso SMART |
