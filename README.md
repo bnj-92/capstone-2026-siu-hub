@@ -17,7 +17,7 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 |---|---|---|---|
 | Amanda Parraguez | Ing. Civil Industrial | Directora de proyecto | [@amandaparraguez-blip] |
 | Benjamín Oliva | Ing. Civil en computación e Informática | Desarrollo de software | [@bnj-92] |
-| Gerzon Toro | Ing. Civil en computación e Informática | Arquitecto de datos | [Pendiente] |
+| Gerzon Toro | Ing. Civil en computación e Informática | Arquitecto de datos | [@gerzontoro] |
 | Josué Villa | Ing. Civil Electrónica | Especialista en hardware | [@jvilla-02] |
 
 ## Valores del equipo
