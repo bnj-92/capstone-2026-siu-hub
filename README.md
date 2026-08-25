@@ -15,11 +15,11 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 ## Equipo
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
-| Amanda Parraguez | Ing. Civil Industrial | Directora de proyecto | [@amandaparraguez-blip] |
-| Benjamín Oliva | Ing. Civil en computación e Informática | Desarrollo de software | [@bnj-92] |
-| Gerzon Toro | Ing. Civil en computación e Informática | Arquitecto de datos | [@gerzontoro] |
+| Amanda Parraguez | Ing. Civil Industrial | Lider de proyecto | [@amandaparraguez-blip] |
+| Benjamín Oliva | Ing. Civil en computación e Informática | Desarrollador Frontend | [@bnj-92] |
+| Gerzon Toro | Ing. Civil en computación e Informática | Desarrolador Backend | [@gerzontoro] |
 | Josué Villa | Ing. Civil Electrónica | Especialista en hardware | [@jvilla-02] |
-| Valentina Zapata | Ing. Civil Industrial | [Pendiente] | @valentinazapatat-beep |
+| Valentina Zapata | Ing. Civil Industrial | Analista de Negocio | @valentinazapatat-beep |
 
 ## Valores del equipo
 - Compromiso y responsabilidad
