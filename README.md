@@ -19,6 +19,7 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 | Benjamín Oliva | Ing. Civil en computación e Informática | Desarrollo de software | [@bnj-92] |
 | Gerzon Toro | Ing. Civil en computación e Informática | Arquitecto de datos | [@gerzontoro] |
 | Josué Villa | Ing. Civil Electrónica | Especialista en hardware | [@jvilla-02] |
+| Valentina Zapata | Ing. Civil Industrial | [Pendiente] | [Pendiente]
 
 ## Valores del equipo
 - Compromiso y responsabilidad
@@ -54,6 +55,7 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 | Gerzon Toro | Me comprometo a diseñar, documentar e implementar la arquitectura de la base de datos estructurada para el registro y caracterización de usuarios del Hub Providencia, entregando el modelo entidad-relación (DER) y la estructura inicial de almacenamiento verificada y funcional antes de finalizar el proyecto. |
 | Benjamín Oliva |Me comprometo a asistir puntualmente a las clases, entregar cada actividad y avance del proyecto dentro del plazo fijado y aportar activamente en el trabajo semanal hasta finalizar el semestre.  |
 | Josué Villa | Me comprometo a investigar, evaluar y definir la arquitectura de hardware/tecnología de captura de datos (sensores, lectores de identificación o dispositivos de registro) para el prototipo del Hub Providencia, entregando un informe técnico comparativo de al menos 2 alternativas tecnológicas viables y de bajo costo antes de finalizar la semana 3 del proyecto. |
+| Valentina Zapata | [Pendiente] |
 
 ## Usuarios y contexto
 Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, junto con el equipo de gestión del edificio.
