@@ -6,7 +6,7 @@
 **Contraparte:** Municipalidad de Providencia / Hub Providencia  
 **Estado actual:** En desarrollo
 
-![Foto del equipo](foto_grupal.jpeg)
+![Foto del equipo](SUI_HUB_TEAM_PHOTO.jpeg)
 
 ## Descripción
 **Desafío Hub Providencia - Edificios Inteligentes**  
