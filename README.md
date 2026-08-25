@@ -19,7 +19,7 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 | Benjamín Oliva | Ing. Civil en computación e Informática | Desarrollo de software | [@bnj-92] |
 | Gerzon Toro | Ing. Civil en computación e Informática | Arquitecto de datos | [@gerzontoro] |
 | Josué Villa | Ing. Civil Electrónica | Especialista en hardware | [@jvilla-02] |
-| Valentina Zapata | Ing. Civil Industrial | [Pendiente] | [Pendiente]
+| Valentina Zapata | Ing. Civil Industrial | [Pendiente] | @valentinazapatat-beep |
 
 ## Valores del equipo
 - Compromiso y responsabilidad
