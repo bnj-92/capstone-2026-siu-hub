@@ -52,7 +52,7 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 | Integrante | Compromiso SMART |
 |---|---|
 | Amanda Parraguez | Me comprometo a llegar antes de la hora de inicio a las clases y reuniones del equipo durante todo el semestre, avisando el mismo día cuando no pueda, y a cumplir dentro del plazo las tareas que asuma. También me comprometo a reforzar mis conocimientos técnicos para aportar en el desarrollo del prototipo, y no solo en la documentación. |
-| Gerzon Toro | Me comprometo a diseñar, documentar e implementar la arquitectura de la base de datos estructurada para el registro y caracterización de usuarios del Hub Providencia, entregando el modelo entidad-relación (DER) y la estructura inicial de almacenamiento verificada y funcional antes de finalizar el proyecto. |
+| Gerzon Toro | Como Desarrollador Backend y Gestor de Base de Datos en el proyecto, me comprometo a diseñar e implementar una arquitectura de base de datos relacional y una API REST eficiente utilizando exclusivamente tecnologías open-source o de costo cero, garantizando la seguridad de la información y tiempos de respuesta inferiores a 200 ms. Seré responsable de conectar el prototipo físico de registro con la base de datos y de desarrollar un sistema de enrolamiento simplificado que automatice la identificación de usuarios recurrentes, entregando el esquema de datos, los endpoints integrados y la optimización final del sistema documentado dentro de los plazos establecidos para los hitos del proyecto. |
 | Benjamín Oliva |Me comprometo a asistir puntualmente a las clases, entregar cada actividad y avance del proyecto dentro del plazo fijado y aportar activamente en el trabajo semanal hasta finalizar el semestre.  |
 | Josué Villa | Me comprometo a investigar, evaluar y definir la arquitectura de hardware/tecnología de captura de datos (sensores, lectores de identificación o dispositivos de registro) para el prototipo del Hub Providencia, entregando un informe técnico comparativo de al menos 2 alternativas tecnológicas viables y de bajo costo antes de finalizar la semana 3 del proyecto. |
 | Valentina Zapata | [Pendiente] |
@@ -70,7 +70,7 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 - [S01 - Identidad del equipo y desafío](bitacora/S01.md)
 
 ## Evidencias principales
-- [Foto del equipo](foto_grupal.jpeg)
+- [Foto del equipo](imagen_grupal.jpeg)
 - [Contrato del equipo](contrato-equipo.docx)
 
 ## Decisiones relevantes
