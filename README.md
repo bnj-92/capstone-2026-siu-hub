@@ -71,6 +71,7 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 
 ## Bitácora
 ### Semana 3
+| 25-08-2026 | [Equipo] | 24-08-2026 | En proceso |
 
 ## Evidencias principales
 - [Foto del equipo](imagen_grupal.jpeg)
