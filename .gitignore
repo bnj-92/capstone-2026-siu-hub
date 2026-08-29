@@ -1,0 +1,19 @@
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Temporales de Office
+~$*
+
+# Entornos y dependencias
+.venv/
+venv/
+__pycache__/
+node_modules/
+.env

@@ -1,12 +1,12 @@
-# [DESAFÍO 01 | EDIFICIOS INTELIGENTES]
+# Desafío 01 | Edificios Inteligentes
 
 ## Capstone Intermedio 2026
-**Equipo:** [S.I.U HUB]  
+**Equipo:** S.I.U HUB  
 **Desafío:** Caracterización de usuarios del Hub Providencia  
 **Contraparte:** Municipalidad de Providencia / Hub Providencia  
 **Estado actual:** En desarrollo
 
-![Foto del equipo](imagen_grupal.jpeg)
+![Foto del equipo](bitacora/evidencias/equipo/imagen-grupal.jpeg)
 
 ## Descripción
 **Desafío Hub Providencia - Edificios Inteligentes**  
@@ -15,11 +15,11 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 ## Equipo
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
-| Amanda Parraguez | Ing. Civil Industrial | Lider de proyecto y procesos | [@amandaparraguez-blip] |
-| Benjamín Oliva | Ing. Civil en computación e Informática | Ingeniero Frontend & Dashboard | [@bnj-92] |
-| Gerzon Toro | Ing. Civil en computación e Informática | Ingeniero Backend & Base de Datos | [@gerzontoro] |
-| Josué Villa | Ing. Civil Electrónica | Ingeniero de Hardware e Integración | [@jvilla-02] |
-| Valentina Zapata | Ing. Civil Industrial | Analista de Métricas y Pilotaje | [@valentinazapatat-beep] |
+| Amanda Parraguez | Ing. Civil Industrial | Lider de proyecto y procesos | [@amandaparraguez-blip](https://github.com/amandaparraguez-blip) |
+| Benjamín Oliva | Ing. Civil en computación e Informática | Ingeniero Frontend & Dashboard | [@bnj-92](https://github.com/bnj-92) |
+| Gerzon Toro | Ing. Civil en computación e Informática | Ingeniero Backend & Base de Datos | [@gerzontoro](https://github.com/gerzontoro) |
+| Josué Villa | Ing. Civil Electrónica | Ingeniero de Hardware e Integración | [@jvilla-02](https://github.com/jvilla-02) |
+| Valentina Zapata | Ing. Civil Industrial | Analista de Métricas y Pilotaje | [@valentinazapatat-beep](https://github.com/valentinazapatat-beep) |
 
 ## Valores del equipo
 - Compromiso y responsabilidad
@@ -55,7 +55,7 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 | Gerzon Toro | Como Desarrollador Backend y Gestor de Base de Datos en el proyecto, me comprometo a diseñar e implementar una arquitectura de base de datos relacional y una API REST eficiente utilizando exclusivamente tecnologías open-source o de costo cero, garantizando la seguridad de la información y tiempos de respuesta inferiores a 200 ms. Seré responsable de conectar el prototipo físico de registro con la base de datos y de desarrollar un sistema de enrolamiento simplificado que automatice la identificación de usuarios recurrentes, entregando el esquema de datos, los endpoints integrados y la optimización final del sistema documentado dentro de los plazos establecidos para los hitos del proyecto. |
 | Benjamín Oliva |Me comprometo a asistir puntualmente a las clases, entregar cada actividad y avance del proyecto dentro del plazo fijado y aportar activamente en el trabajo semanal hasta finalizar el semestre.  |
 | Josué Villa | Me comprometo a investigar, evaluar y definir la arquitectura de hardware/tecnología de captura de datos (sensores, lectores de identificación o dispositivos de registro) para el prototipo del Hub Providencia, entregando un informe técnico comparativo de al menos 2 alternativas tecnológicas viables y de bajo costo antes de finalizar la semana 3 del proyecto. |
-| Valentina Zapata | [Pendiente] |
+| Valentina Zapata | _Pendiente de definir_ |
 
 ## Usuarios y contexto
 Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, junto con el equipo de gestión del edificio.
@@ -63,14 +63,15 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 ## Plan inicial
 | Actividad | Responsable(s) | Fecha | Estado |
 |---|---|---|---|
-| Definición de identidad del equipo y roles | [Equipo] | 24-08-2026 | En proceso |
-| Establecer los alineamientos e ideas clave para la formulación del plan inicial del proyecto | [Equipo] | [24-08-2026] | En proceso |
+| Definición de identidad del equipo y roles | Equipo | 24-08-2026 | En proceso |
+| Establecer los alineamientos e ideas clave para la formulación del plan inicial del proyecto | Equipo | 24-08-2026 | En proceso |
 
 ## Índice de la bitácora
 - [S01 — Semana del 25 de agosto al 1 de septiembre de 2026](bitacora/S01.md)
+- [S02 — Semana del 1 al 8 de septiembre de 2026](bitacora/S02.md)
 
 ## Evidencias principales
-- [Foto del equipo](imagen_grupal.jpeg)
+- [Foto del equipo](bitacora/evidencias/equipo/imagen-grupal.jpeg)
 - [Contrato del equipo](contrato-equipo.docx)
 
 ## Decisiones relevantes
