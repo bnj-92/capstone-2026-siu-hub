@@ -69,11 +69,6 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 ## Índice de la bitácora
 - [S01 - Identidad del equipo y desafío](bitacora/S01.md)
 
-## Bitácora
-## Semana 3
-| Actividad | Responsable(s) | Fecha | Estado |
-| ksjjslsj |
-
 ## Evidencias principales
 - [Foto del equipo](imagen_grupal.jpeg)
 - [Contrato del equipo](contrato-equipo.docx)
