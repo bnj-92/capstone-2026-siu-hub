@@ -67,7 +67,7 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 | Establecer los alineamientos e ideas clave para la formulación del plan inicial del proyecto | [Equipo] | [24-08-2026] | En proceso |
 
 ## Índice de la bitácora
-- [S01 - Identidad del equipo y desafío](bitacora/S01.md)
+- [S01 — Semana del 25 de agosto al 1 de septiembre de 2026](bitacora/S01.md)
 
 ## Evidencias principales
 - [Foto del equipo](imagen_grupal.jpeg)
