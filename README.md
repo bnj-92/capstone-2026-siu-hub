@@ -75,12 +75,19 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 - [Contrato del equipo](contrato-equipo.docx)
 
 ## Decisiones relevantes
-| Fecha | Decisión | Evidencia o criterio utilizado |
+| Fecha | Decisión | Criterio o justificación |
 |---|---|---|
 | 21-08-2026 | Creación de la estructura base en GitHub | Organización de la bitácora del proyecto Capstone |
+| 25-08-2026 | Realizar visita presencial al Hub Providencia | La información pública disponible no detallaba las áreas ni el funcionamiento del edificio |
+| 25-08-2026 | Centrar el pitch en el problema y no en la solución | Indicación de la profesora en clase |
+| 26-08-2026 | Dejar fuera del alcance el módulo de reservas de espacios | Corresponde al Desafío 02, que aborda la reserva de salas, cowork y laboratorios |
+| 26-08-2026 | Dejar fuera del alcance la medición de ocupación en tiempo real mediante sensores | Corresponde al Desafío 03, que mide ocupación y disponibilidad del cowork |
+| 26-08-2026 | Mantener en el alcance el registro del área declarada al ingresar | La ficha del Desafío 01 solicita identificar qué espacios ocupan los usuarios, y el formulario actual ya captura ese dato |
 
 ## Próximo hito
-Completar la primera sesión de la bitácora (`bitacora/S01.md`) y realizar el levantamiento inicial de información con el Hub Providencia.
+*Actualizado al 1 de septiembre de 2026*
+Presentar el pitch del desafío y entregar la ficha del caso con la información
+levantada en terreno.
 
 ## Uso y licencia
 Por definir con el equipo docente y la contraparte.
