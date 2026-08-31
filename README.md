@@ -72,10 +72,16 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, junto con el equipo de gestión del edificio.
 
 ## Plan inicial
+
 | Actividad | Responsable(s) | Fecha | Estado |
 |---|---|---|---|
-| Definición de identidad del equipo y roles | Equipo | 24-08-2026 | En proceso |
-| Establecer los alineamientos e ideas clave para la formulación del plan inicial del proyecto | Equipo | 24-08-2026 | En proceso |
+| Definición de identidad del equipo y roles | Equipo | 24-08-2026 | Completado |
+| Elaboración del mapa conceptual del desafío | Equipo | 25-08-2026 | Completado |
+| Visita a terreno y levantamiento del proceso actual | Amanda, Gerzon | 25-08-2026 | Completado |
+| Delimitación del alcance respecto de los desafíos 02 y 03 | Equipo | 26-08-2026 | Completado |
+| Elaboración de la ficha del desafío | Equipo | | En proceso |
+| Preparación del pitch del tema | Equipo | | En proceso |
+| Validación del alcance y definiciones técnicas con el equipo | Equipo | | Pendiente |
 
 ## Índice de la bitácora
 - [S01 — Semana del 25 de agosto al 1 de septiembre de 2026](bitacora/S01.md)
