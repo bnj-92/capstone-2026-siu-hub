@@ -71,7 +71,7 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 - [S02 — Semana del 1 al 8 de septiembre de 2026](bitacora/S02.md)
 
 ## Evidencias principales
-- [Foto del equipo](bitacora/evidencias/equipo/imagen-grupal.jpeg)
+- [Evidencias](bitacora/evidencias/)
 - [Contrato del equipo](contrato-equipo.docx)
 
 ## Decisiones relevantes
