@@ -13,13 +13,13 @@
 Solución tecnológica para registrar, caracterizar y analizar el flujo de usuarios en Hub Providencia. Incluye un sistema de registro, base de datos estructurada y un dashboard analítico para optimizar la gestión del espacio.
 
 ## Equipo
-| Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
+| Integrante | Carrera o especialidad | Rol  | Usuario de GitHub |
 |---|---|---|---|
-| Amanda Parraguez | Ing. Civil Industrial | Lider de proyecto y procesos | [@amandaparraguez-blip](https://github.com/amandaparraguez-blip) |
-| Benjamín Oliva | Ing. Civil en computación e Informática | Ingeniero Frontend & Dashboard | [@bnj-92](https://github.com/bnj-92) |
-| Gerzon Toro | Ing. Civil en computación e Informática | Ingeniero Backend & Base de Datos | [@gerzontoro](https://github.com/gerzontoro) |
-| Josué Villa | Ing. Civil Electrónica | Ingeniero de Hardware e Integración | [@jvilla-02](https://github.com/jvilla-02) |
-| Valentina Zapata | Ing. Civil Industrial | Analista de Métricas y Pilotaje | [@valentinazapatat-beep](https://github.com/valentinazapatat-beep) |
+| Amanda Parraguez | Ing. Civil Industrial | Lider de proyecto  | [@amandaparraguez-blip](https://github.com/amandaparraguez-blip) |
+| Benjamín Oliva | Ing. Civil en computación e Informática | Desarrollo web y dashboard | [@bnj-92](https://github.com/bnj-92) |
+| Gerzon Toro | Ing. Civil en computación e Informática | Coordinación técnica y backend | [@gerzontoro](https://github.com/gerzontoro) |
+| Josué Villa | Ing. Civil Electrónica | Desarrollo e integración | [@jvilla-02](https://github.com/jvilla-02) |
+| Valentina Zapata | Ing. Civil Industrial | Diseño y experiencia de usuario | [@valentinazapatat-beep](https://github.com/valentinazapatat-beep) |
 
 ## Valores del equipo
 - Compromiso y responsabilidad
