@@ -39,14 +39,25 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 ### Lo que sabemos
 - El Hub Providencia recibe a emprendedores, startups, estudiantes, vecinos y visitantes.
 - Existe información limitada sobre la frecuencia de uso, espacios ocupados y comportamiento de los visitantes.
+- El registro de ingreso se realiza mediante un formulario de Google que solicita
+  nueve campos y debe completarse en cada visita.
+- El formulario no permite reconocer a una persona que ya visitó el edificio ni
+  registra su salida.
+- Las áreas especiales se autorizan por correo, la sala de reuniones se agenda en
+  recepción y las charlas usan un registro aparte.
 
 ### Lo que todavía no sabemos
 - Cuántos usuarios nuevos vs. recurrentes visitan el edificio diariamente.
 - Cuál es el flujo exacto en los distintos espacios y horarios de mayor demanda.
+- Qué se hace actualmente con los datos recolectados por el formulario.
+- Cuál es el tiempo de permanencia de las personas en el edificio.
 
 ### Supuestos que debemos comprobar
 - Es posible implementar un enrolamiento inicial rápido que no genere molestia en los usuarios.
 - La recopilación de datos permitirá al equipo de gestión optimizar los servicios ofrecidos.
+- Las personas escanearán su credencial también al salir, y no solo al ingresar.
+- Los indicadores generados serán efectivamente utilizados por el equipo de gestión
+  para tomar decisiones.
 
 ## Compromisos individuales
 | Integrante | Compromiso SMART |
