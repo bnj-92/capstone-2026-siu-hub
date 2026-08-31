@@ -80,7 +80,7 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 | Visita a terreno y levantamiento del proceso actual | Amanda, Gerzon | 25-08-2026 | Completado |
 | Delimitación del alcance respecto de los desafíos 02 y 03 | Equipo | 26-08-2026 | Completado |
 | Elaboración de la ficha del desafío | Equipo | | En proceso |
-| Preparación del pitch del tema | Equipo | | En proceso |
+| Preparación del pitch del tema | Equipo | 31-08-2026 | En proceso |
 | Validación del alcance y definiciones técnicas con el equipo | Equipo | | Pendiente |
 
 ## Índice de la bitácora
