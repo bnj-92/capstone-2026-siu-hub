@@ -103,6 +103,7 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 
 ## Próximo hito
 *Actualizado al 1 de septiembre de 2026*
+
 Presentar el pitch del desafío y entregar la ficha del caso con la información
 levantada en terreno.
 
