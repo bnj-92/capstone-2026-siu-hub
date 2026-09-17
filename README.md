@@ -86,6 +86,8 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 ## Índice de la bitácora
 - [S01 — Semana del 25 de agosto al 1 de septiembre de 2026](bitacora/S01.md)
 - [S02 — Semana del 1 al 8 de septiembre de 2026](bitacora/S02.md)
+- [S03 — Semana del 8 al 15 de septiembre de 2026](bitacora/S03.md)
+- [S04 — Semana del 15 al 22 de septiembre de 2026](bitacora/S04.md)
 
 ## Evidencias principales
 - [Evidencias](bitacora/evidencias/)
