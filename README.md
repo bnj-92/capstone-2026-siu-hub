@@ -92,6 +92,7 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 ## Evidencias principales
 - [Evidencias](bitacora/evidencias/)
 - [Contrato del equipo](contrato-equipo.docx)
+- [Ficha desafio N.º1](bitacora/evidencias/S02/ficha-desafio-01.docx)
 
 ## Decisiones relevantes
 | Fecha | Decisión | Criterio o justificación |
