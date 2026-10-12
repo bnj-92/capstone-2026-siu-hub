@@ -89,6 +89,8 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 - [S03 — Semana del 8 al 15 de septiembre de 2026](bitacora/S03.md)
 - [S04 — Semana del 15 al 22 de septiembre de 2026](bitacora/S04.md)
 - [S05 — Semana del 22 al 29 de septiembre de 2026](bitacora/S05.md)
+- [S06 — Semana del 29 de septiembre al 6 de octubre de 2026](bitacora/S06.md)
+- [S07 — Semana del 6 al 13 de octubre de 2026](bitacora/S07.md)
 
 ## Evidencias principales
 - [Evidencias](bitacora/evidencias/)
