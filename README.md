@@ -12,6 +12,8 @@
 **Desafío Hub Providencia - Edificios Inteligentes**  
 Solución tecnológica para registrar, caracterizar y analizar el flujo de usuarios en Hub Providencia. Incluye un sistema de registro, base de datos estructurada y un dashboard analítico para optimizar la gestión del espacio.
 
+**Propuesta seleccionada (octubre 2026):** aplicación web de enrolamiento único con código QR, que registra entrada y salida y centraliza en una sola base los datos que hoy se reparten entre Luma, BIForm, planillas Excel y un cuaderno en papel.
+
 ## Equipo
 | Integrante | Carrera o especialidad | Rol  | Usuario de GitHub |
 |---|---|---|---|
@@ -45,12 +47,25 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
   registra su salida.
 - Las áreas especiales se autorizan por correo, la sala de reuniones se agenda en
   recepción y las charlas usan un registro aparte.
+- Circulan entre 200 y 300 personas en el edificio, con mayor afluencia entre las
+  9:00 y las 14:00 y los días martes y jueves.
+- El Hub realiza cerca de 10 charlas semanales, con unas 50 personas promedio por
+  charla y hasta 150 en las de mayor convocatoria.
+- El registro ocurre hoy en al menos cuatro formatos distintos: Luma, BIForm o
+  BukForm, planillas Excel y un cuaderno en papel del segundo piso.
+- Ninguna de esas modalidades registra la salida de las personas.
+- El Hub quiere caracterizar a sus usuarios por nivel educacional, edad, comuna,
+  situación laboral y sector.
+- Rory es el encargado de los datos y busca mantener el registro en un solo lugar.
 
 ### Lo que todavía no sabemos
-- Cuántos usuarios nuevos vs. recurrentes visitan el edificio diariamente.
-- Cuál es el flujo exacto en los distintos espacios y horarios de mayor demanda.
-- Qué se hace actualmente con los datos recolectados por el formulario.
+- Cuántos usuarios nuevos vs. recurrentes visitan el edificio. No existe la cifra.
 - Cuál es el tiempo de permanencia de las personas en el edificio.
+- Si las 200 a 300 personas son simultáneas o acumuladas durante el día.
+- Cuántas personas entran sin registrarse.
+- Si el Hub autorizará instalar un dispositivo de escaneo en recepción.
+- Qué política de datos personales aplica la Municipalidad de Providencia.
+- Cuál es la situación actual de las cámaras del edificio.
 
 ### Supuestos que debemos comprobar
 - Es posible implementar un enrolamiento inicial rápido que no genere molestia en los usuarios.
@@ -58,6 +73,10 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 - Las personas escanearán su credencial también al salir, y no solo al ingresar.
 - Los indicadores generados serán efectivamente utilizados por el equipo de gestión
   para tomar decisiones.
+- El personal de recepción dispondrá del tiempo para escanear, incluso en el
+  horario de mayor afluencia.
+- Existirá alguien dentro del Hub que se haga cargo del sistema al terminar el
+  semestre.
 
 ## Compromisos individuales
 | Integrante | Compromiso SMART |
@@ -71,31 +90,48 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 ## Usuarios y contexto
 Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, junto con el equipo de gestión del edificio.
 
-## Plan inicial
+## Plan de trabajo
 
 | Actividad | Responsable(s) | Fecha | Estado |
 |---|---|---|---|
 | Definición de identidad del equipo y roles | Equipo | 24-08-2026 | Completado |
 | Elaboración del mapa conceptual del desafío | Equipo | 25-08-2026 | Completado |
 | Visita a terreno y levantamiento del proceso actual | Amanda, Gerzon | 25-08-2026 | Completado |
-| Delimitación del alcance respecto de los desafíos 02 y 03 | Equipo | 26-08-2026 | Completado |
-| Elaboración de la ficha del desafío | Equipo | | En proceso |
-| Preparación del pitch del tema | Equipo | 31-08-2026 | En proceso |
-| Validación del alcance y definiciones técnicas con el equipo | Equipo | | Pendiente |
+| Delimitación del alcance del proyecto | Equipo | 26-08-2026 | Completado |
+| Presentación del pitch del tema | Equipo | 01-09-2026 | Completado |
+| Entrega de la ficha del desafío | Equipo | 01-09-2026 | Completado |
+| Ejercicio de observación en terreno | Equipo | 08-09-2026 | Completado |
+| Estado del arte y matriz de atributos | Equipo | 22-09-2026 | Completado |
+| Segunda visita al Hub y levantamiento con la contraparte | Valentina, Josué | 06-10-2026 | Completado |
+| Fichas de bosquejo de las tres soluciones | Equipo | 12-10-2026 | Completado |
+| Informe de cierre de la Unidad 2 | Equipo | 12-10-2026 | Completado |
+| Presentación de las tres propuestas (cierre Unidad 2) | Equipo | 13-10-2026 | En proceso |
+| Diseño del modelo de datos | Gerzon | | Pendiente |
+| Desarrollo del enrolamiento y generación del QR | Benjamín | | Pendiente |
+| Pantalla de escaneo y registro de entrada y salida | Gerzon, Josué | | Pendiente |
+| Dashboard de indicadores | Benjamín, Valentina | | Pendiente |
+| Definición del punto físico de escaneo en recepción | Josué | | Pendiente |
+| Prueba del prototipo en terreno | Equipo | | Pendiente |
 
 ## Índice de la bitácora
 - [S01 — Semana del 25 de agosto al 1 de septiembre de 2026](bitacora/S01.md)
 - [S02 — Semana del 1 al 8 de septiembre de 2026](bitacora/S02.md)
-- [S03 — Semana del 8 al 15 de septiembre de 2026](bitacora/S03.md)
-- [S04 — Semana del 15 al 22 de septiembre de 2026](bitacora/S04.md)
-- [S05 — Semana del 22 al 29 de septiembre de 2026](bitacora/S05.md)
-- [S06 — Semana del 29 de septiembre al 6 de octubre de 2026](bitacora/S06.md)
-- [S07 — Semana del 6 al 13 de octubre de 2026](bitacora/S07.md)
+- [S03 — Semana del 8 al 21 de septiembre de 2026](bitacora/S03.md)
+- [S04 — Semana del 22 al 28 de septiembre de 2026](bitacora/S04.md)
+- [S05 — Semana del 29 de septiembre al 5 de octubre de 2026](bitacora/S05.md)
+- [S06 — Semana del 6 al 13 de octubre de 2026](bitacora/S06.md)
+- [S07 — Semana del 13 al 20 de octubre de 2026](bitacora/S07.md)
 
-## Evidencias principales
-- [Evidencias](bitacora/evidencias/)
+> La S03 abarca dos semanas porque la del 15 al 21 de septiembre correspondió al
+> receso de Fiestas Patrias y no hubo sesión.
+
+## Entregables y evidencias
+- [Carpeta de evidencias](bitacora/evidencias/)
 - [Contrato del equipo](contrato-equipo.docx)
-- [Ficha desafio N.º1](bitacora/evidencias/S02/ficha-desafio-01.docx)
+- [Ficha del Desafío 01](bitacora/evidencias/S02/ficha-desafio-01.docx)
+- [Actividades del 22 de septiembre: estado del arte, matriz de atributos y lluvia de ideas](bitacora/evidencias/S04/actividades-22-sep.pdf)
+- [Fichas de bosquejo de las tres soluciones](bitacora/evidencias/S05/fichas-bosquejo-soluciones.pdf)
+- [Informe de cierre de la Unidad 2](bitacora/evidencias/S06/informe-unidad2.pdf)
 
 ## Decisiones relevantes
 | Fecha | Decisión | Criterio o justificación |
@@ -106,12 +142,20 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 | 26-08-2026 | Dejar fuera del alcance el módulo de reservas de espacios | Corresponde al Desafío 02, que aborda la reserva de salas, cowork y laboratorios |
 | 26-08-2026 | Dejar fuera del alcance la medición de ocupación en tiempo real mediante sensores | Corresponde al Desafío 03, que mide ocupación y disponibilidad del cowork |
 | 26-08-2026 | Mantener en el alcance el registro del área declarada al ingresar | La ficha del Desafío 01 solicita identificar qué espacios ocupan los usuarios, y el formulario actual ya captura ese dato |
+| 01-09-2026 | Definir el alcance únicamente según lo que pide la ficha del Desafío 01 | Indicación de la profesora: cada equipo debe concentrarse en su propio desafío y no en evitar superposición con los demás. Deja sin efecto el criterio usado el 26-08 |
+| 08-09-2026 | Priorizar el sistema de registro por sobre la reserva de salas | El núcleo del desafío es caracterizar usuarios; las reservas se incorporan solo si el avance lo permite |
+| 29-09-2026 | Desarrollar una aplicación web y no una aplicación descargable | Publicar en las tiendas tiene costo anual, el visitante ocasional no instalaría una app y una sola versión web funciona en todos los dispositivos |
+| 12-10-2026 | Presentar tres propuestas: aplicación web con QR, sensores de conteo y reconocimiento facial | Son tecnologías de identificación realmente distintas y permiten comparar costo, componentes y factibilidad |
+| 12-10-2026 | Descartar "cámaras con IA" como propuesta independiente | Se superpone con el reconocimiento facial en componentes y costos |
+| 12-10-2026 | Seleccionar la aplicación web con enrolamiento único como propuesta a desarrollar | Es la única de costo cero, no trata datos biométricos y ataca la dispersión de registros detectada en terreno |
 
 ## Próximo hito
-*Actualizado al 1 de septiembre de 2026*
+*Actualizado al 12 de octubre de 2026*
 
-Presentar el pitch del desafío y entregar la ficha del caso con la información
-levantada en terreno.
+Cerrar la Unidad 2 con la presentación de las tres propuestas y la entrega del
+informe de la propuesta seleccionada. A partir de la Unidad 3, construir el
+prototipo de la aplicación web: modelo de datos, enrolamiento, registro de
+entrada y salida y dashboard de indicadores.
 
 ## Uso y licencia
 Por definir con el equipo docente y la contraparte.
