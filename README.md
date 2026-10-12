@@ -67,16 +67,11 @@ Solución tecnológica para registrar, caracterizar y analizar el flujo de usuar
 - Qué política de datos personales aplica la Municipalidad de Providencia.
 - Cuál es la situación actual de las cámaras del edificio.
 
-### Supuestos que debemos comprobar
-- Es posible implementar un enrolamiento inicial rápido que no genere molestia en los usuarios.
-- La recopilación de datos permitirá al equipo de gestión optimizar los servicios ofrecidos.
-- Las personas escanearán su credencial también al salir, y no solo al ingresar.
-- Los indicadores generados serán efectivamente utilizados por el equipo de gestión
-  para tomar decisiones.
-- El personal de recepción dispondrá del tiempo para escanear, incluso en el
-  horario de mayor afluencia.
-- Existirá alguien dentro del Hub que se haga cargo del sistema al terminar el
-  semestre.
+### Lo que el prototipo busca medir
+- Cuántos visitantes son nuevos y cuántos recurrentes.
+- Cuál es el tiempo de permanencia de las personas en el edificio.
+- Cuánto demora registrar a una persona, comparado con el formulario actual.
+- Qué proporción de las personas marca su salida.
 
 ## Compromisos individuales
 | Integrante | Compromiso SMART |
