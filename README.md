@@ -127,8 +127,8 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 - [Actividades del 22 de septiembre: estado del arte, matriz de atributos y lluvia de ideas](bitacora/evidencias/S04/actividades-22-sep.pdf)
 - [Fichas de bosquejo de las tres soluciones](bitacora/evidencias/S05/fichas-bosquejo-soluciones.pdf)
 - [Informe de cierre de la Unidad 2](bitacora/evidencias/S06/informe-unidad2.pdf)
-- [Informe Avance Final](bitacora/evidencias/S07/Informe_Avance.docx)
-- [Presentacion Hub Pass](bitacora/evidencias/S07/Hub_Pass.pptx)
+- [Informe Avance Final](bitacora/evidencias/S07/Informe_Avance.pdf)
+- [Presentacion Hub Pass](bitacora/evidencias/S07/Hub_Pass.pdf)
   
 ## Decisiones relevantes
 | Fecha | Decisión | Criterio o justificación |
