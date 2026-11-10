@@ -1,4 +1,4 @@
-# Desafío 01 | Edificios Inteligentes
+# HUB Pass | Desafío 01 | Edificios Inteligentes
 
 ## Capstone Intermedio 2026
 **Equipo:** S.I.U HUB  
