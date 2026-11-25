@@ -1,0 +1,55 @@
+# 📅 Bitácora S11 · 24 de noviembre de 2026
+
+## 🎯 Objetivo de la sesión
+Validar el funcionamiento de Hub Pass antes de la entrega del póster (25-11, 12:00), corrigiendo los errores encontrados en el momento.
+
+## 👥 Responsables
+- 💻 **Benjamín Oliva:** desarrollo de la página (portal del visitante, recepción y administración) y corrección de errores durante la prueba.
+- ✅ **Amanda Parraguez:** diseño y ejecución de la validación (10 usuarios de prueba y 34 casos de prueba), registro de resultados y evidencias, y actualización del póster con los resultados.
+
+## 🛠️ Lo que hicimos
+- 🗑️ Se respaldó y se limpió la base de datos para empezar la validación desde cero.
+- 👤 Se crearon 10 usuarios de prueba con perfiles distintos (edades de 14–17 a más de 60, cuentas y pases del día, estudiantes, trabajadores y emprendedores).
+- 📲 Se probó el ciclo completo: registro → QR → entrada en recepción → reserva de sala → confirmación de llegada → salida con permanencia → cierre de jornada.
+- 📊 Se revisó el dashboard de administración y los Excel exportados (usuarios y reservas).
+- 🖼️ Se actualizó el póster con los resultados y se exportó a PDF para editarlo en Canva.
+
+## 📈 Resultados de la validación
+- ✅ **31 de 34 pruebas superadas.**
+  - Registro y cuenta: 9/9
+  - Reserva de sala: 12/13
+  - Acceso QR y recepción: 10/12
+- 🔧 **5 errores corregidos durante la misma prueba:**
+  1. "Mis Reservas" aparecía vacío y no se podía cancelar.
+  2. Se podía reservar sábado y domingo.
+  3. Los nombres de los acompañantes no se guardaban.
+  4. Las fechas se guardaban en hora UTC y no en la hora de Chile.
+  5. El pase del día sin correo daba error en la base de datos.
+- ⚠️ La prueba se hizo fuera del horario del Hub, así que la restricción de horario se desactivó temporalmente.
+
+## ❌ Errores pendientes
+- Se pueden reservar bloques de hoy que ya pasaron.
+- Recepción puede marcar "Llegó" en una reserva de otro día.
+- La planilla sin internet no subió la salida (quedó como cierre automático).
+
+## 💡 Mejoras por hacer en la página
+- Botón **"Exportar Visitas (Excel)"** con entradas, salidas y permanencia.
+- Sacar "pasaporte" del registro, de Mi Perfil y del inicio de sesión (solo RUT).
+- Dejar opcional o sacar los datos del apoderado para los de 14 a 17 años (Ley 21.719).
+- Que el error de RUT inválido no diga cuál es el dígito correcto.
+- En celular: el cuadro de ingreso manual se ve muy angosto, el campo de hora de la planilla sale blanco y la tabla de reservas hay que deslizarla.
+- Dashboard: cambiar "Sin dato" por "No aplica" en Sector, y corregir el título "Situación Actual y Nivel Educacional".
+- Al elegir carrera "Otra", agregar un campo para escribir cuál.
+- Volver a activar la restricción de horario después de la prueba.
+
+## 📌 Próximos pasos
+- [ ] Entregar el póster (25-11, 12:00) con logos.
+- [ ] Corregir los 3 errores pendientes y repetir esas pruebas.
+- [ ] Medir tiempos con cronómetro (formulario actual del Hub vs. Hub Pass).
+- [ ] Agregar la validación y sus limitaciones al informe final.
+
+## 📸 Evidencias
+<p align="center"><img src="evidencias/S12.EntradaQR.jpg" width="600"></p>
+<p align="center"><img src="evidencias/S12.SalidaPermanencia.jpg" width="600"></p>
+<p align="center"><img src="evidencias/S12.RecepcionReservas.jpg" width="600"></p>
+<p align="center"><img src="evidencias/S12.Dashboard.jpg" width="600"></p>
