@@ -5,6 +5,7 @@
 **Desafío:** Caracterización de usuarios del Hub Providencia  
 **Contraparte:** Municipalidad de Providencia / Hub Providencia  
 **Estado actual:** En desarrollo
+**Página:** https://hubpass-seven.vercel.app/
 
 ![Foto del equipo](bitacora/evidencias/equipo/imagen-grupal.jpeg)
 
