@@ -100,13 +100,15 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 | Segunda visita al Hub y levantamiento con la contraparte | Valentina, Josué | 06-10-2026 | Completado |
 | Fichas de bosquejo de las tres soluciones | Equipo | 12-10-2026 | Completado |
 | Informe de cierre de la Unidad 2 | Equipo | 12-10-2026 | Completado |
-| Presentación de las tres propuestas (cierre Unidad 2) | Equipo | 13-10-2026 | En proceso |
-| Diseño del modelo de datos | Gerzon | | Pendiente |
-| Desarrollo del enrolamiento y generación del QR | Benjamín | | Pendiente |
-| Pantalla de escaneo y registro de entrada y salida | Gerzon, Josué | | Pendiente |
-| Dashboard de indicadores | Benjamín, Valentina | | Pendiente |
-| Definición del punto físico de escaneo en recepción | Josué | | Pendiente |
-| Prueba del prototipo en terreno | Equipo | | Pendiente |
+| Presentación de las tres propuestas (cierre Unidad 2) | Equipo | 13-10-2026 | Completado |
+| Desarrollo de la página web (registro, QR, pase del día y reserva de sala) | Benjamín, Gerzon, Josué | 05-11-2026 | Completado |
+| Lector QR físico (ESP32 + GM65) | Josué | 03-11-2026 | Reemplazado por la cámara del celular |
+| Páginas de recepción y administración (dashboard) | Benjamín | 24-11-2026 | Completado |
+| Validación interna del prototipo | Amanda | 24-11-2026 | Completado (31 de 34 pruebas) |
+| Póster de la Feria Capstone | Amanda| 25-11-2026 | Completado |
+| Corrección de errores pendientes de la validación | Benjamín | | Pendiente |
+| Feria Capstone | Equipo | 03-12-2026 | Pendiente |
+| Prueba con visitantes reales del Hub | Equipo | | Pendiente |
 
 ## Índice de la bitácora
 - [S01 — Semana del 25 de agosto al 1 de septiembre de 2026](bitacora/S01.md)
@@ -116,6 +118,10 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 - [S05 — Semana del 29 de septiembre al 5 de octubre de 2026](bitacora/S05.md)
 - [S06 — Semana del 6 al 13 de octubre de 2026](bitacora/S06.md)
 - [S07 — Semana del 13 al 20 de octubre de 2026](bitacora/S07.md)
+- [S08 — Semana del 27 de octubre al 3 de noviembre de 2026](bitacora/S08.md)
+- [S09 — Semana del 3 al 10 de noviembre de 2026](bitacora/S09.md)
+- [S10 — Semana del 10 al 17 de noviembre de 2026](bitacora/S10.md)
+- [S11 — Semana del 24 de noviembre al 1 de diciembre de 2026](bitacora/S11.md)
 
 > La S03 abarca dos semanas porque la del 15 al 21 de septiembre correspondió al
 > receso de Fiestas Patrias y no hubo sesión.
@@ -145,14 +151,17 @@ Emprendedores, startups, estudiantes, vecinos y visitantes del Hub Providencia, 
 | 12-10-2026 | Presentar tres propuestas: aplicación web con QR, sensores de conteo y reconocimiento facial | Son tecnologías de identificación realmente distintas y permiten comparar costo, componentes y factibilidad |
 | 12-10-2026 | Descartar "cámaras con IA" como propuesta independiente | Se superpone con el reconocimiento facial en componentes y costos |
 | 12-10-2026 | Seleccionar la aplicación web con enrolamiento único como propuesta a desarrollar | Es la única de costo cero, no trata datos biométricos y ataca la dispersión de registros detectada en terreno |
+| 27-10-2026 | Incluir la reserva de la sala de reuniones y dejar fuera la asistencia a charlas | Indicación de la profesora: concentrarse en la entrada al cowork y la reserva de sala |
+| 03-11-2026 | Escanear el QR con la cámara de un celular en recepción | El lector físico GM65 no logró leer los códigos; era el plan B definido en el informe |
+| 10-11-2026 | Incluir a personas de 14 a 17 años y usar la opción "En búsqueda laboral" | Indicación de la profesora; la Ley 21.719 permite que los de 14 a 17 consientan solos |
+| 24-11-2026 | Validar con 10 usuarios de prueba y 34 casos de prueba | Probar el circuito completo antes de la feria y corregir errores en el momento |
 
 ## Próximo hito
-*Actualizado al 12 de octubre de 2026*
+*Actualizado al 24 de noviembre de 2026*
 
-Cerrar la Unidad 2 con la presentación de las tres propuestas y la entrega del
-informe de la propuesta seleccionada. A partir de la Unidad 3, construir el
-prototipo de la aplicación web: modelo de datos, enrolamiento, registro de
-entrada y salida y dashboard de indicadores.
+Entregar el póster (25 de noviembre) y presentar Hub Pass en la Feria Capstone
+el 3 de diciembre con una demostración en vivo. Antes de la feria, corregir los
+errores pendientes de la validación y preparar el plan B con datos de prueba.
 
 ## Uso y licencia
 Por definir con el equipo docente y la contraparte.
