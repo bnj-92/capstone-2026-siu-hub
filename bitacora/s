@@ -1,0 +1,105 @@
+## 📅 Fecha
+26 y 27 de noviembre de 2026
+
+## 📢 Indicaciones de la profesora
+El 26 de noviembre la profesora envió indicaciones a todos los equipos:
+- Al revisar los pósteres, vio que varios deben mejorar la **validación**. Hay que presentar resultados concretos y evitar frases como «la solución funcionó bien».
+- Hay que explicar **qué se probó, cómo, qué se observó y qué ajustes se harían**.
+- **Martes 1 de diciembre:** ensayo del pitch en línea, mostrando el PPT. Es obligatorio para quienes presentan el pitch.
+- **Jueves 3 de diciembre:** Feria Capstone. El póster se evalúa en el stand. Hay que llevar un cartón del mismo tamaño y pegamento. Llegada a las 13:00 a la carpa. Cada stand tiene una mesa y dos sillas.
+- **Lunes 7 de diciembre, 9:00:** entrega del informe final.
+- **Jueves 10 de diciembre:** presentación oral ante la comisión y cierre en el auditorio.
+
+La profesora también comentó que nuestro póster es uno de los mejores.
+
+## 🏠 Trabajo realizado fuera de clases
+
+### Acuerdos
+**Cambio no coordinado de la página (26 de noviembre)**
+- Durante la tarde, la página apareció con un diseño distinto. Nadie del equipo sabía quién la había cambiado.
+- El cambio rompió funciones: los bloques de la sala no se podían seleccionar, la contraseña pasó a pedir solo 4 caracteres y cambiaron las opciones de "Relación con Providencia".
+- Se decidió **volver a la versión anterior** desde Vercel, para no perder la validación.
+- Se acordó que los cambios futuros se revisen antes de publicarlos.
+
+**Segunda verificación (26 y 27 de noviembre)**
+- Benjamín corrigió los 3 errores pendientes de la primera validación y agregó un segundo Excel en recepción.
+- Amanda volvió a probar todo con los mismos usuarios de prueba. En esta verificación se encontraron y corrigieron 4 errores más:
+  - El botón "Cancelar reserva" no funcionaba.
+  - Los nombres de los acompañantes no se guardaban.
+  - Una reserva de varios bloques aparecía como varias reservas.
+  - La planilla sin internet duplicaba registros y no cerraba la visita.
+- Se comprobó que ahora funciona:
+  - No se pueden reservar bloques que ya pasaron.
+  - Recepción solo confirma las reservas del día ("Solo disponible el día de la reserva").
+  - Una reserva por persona al día, de hasta 3 bloques seguidos.
+  - Cancelar una reserva libera el bloque.
+  - Los acompañantes se ven en Mis Reservas, en recepción y en el Excel.
+  - La planilla sin internet registra la salida y cierra la visita (prueba en modo avión).
+  - Dos Excel en recepción: **reservas de sala** y **visitas** (entrada, salida, permanencia, tipo de salida y cómo se registró).
+- Resultado: las **34 pruebas quedaron superadas**.
+
+**Prueba exploratoria con usuarias reales (27 de noviembre)**
+- **Qué se probó:** que personas que no conocían Hub Pass pudieran crear su cuenta, entrar y salir con su QR sin ayuda.
+- **Cómo:** Amanda pidió a 2 compañeras de su trabajo que se registraran con sus datos reales, después de explicarles que era un proyecto universitario, que sus datos solo se usarían para la prueba y que podían borrar su cuenta. Luego registraron su entrada y su salida con el QR.
+- **Qué se observó:**
+  - Las 2 participantes crearon su cuenta y registraron su entrada con QR sin ayuda.
+  - **Una marcó su salida y la otra no**, por lo que su visita se cerró automáticamente. Esto confirma que olvidar la salida es un riesgo real y justifica el folleto "Marca tu salida".
+  - El **cierre automático funcionó** con una persona real.
+  - No entendían qué significa **"cowork"**, y algunas personas van a Providencia por otras razones que no están en las opciones.
+  - Hay personas que **estudian y trabajan a la vez**, y "Situación actual" solo dejaba elegir una opción.
+- **Qué se ajustó:**
+  - ✅ "Situación actual" ahora es de **selección múltiple**.
+  - ⏳ Propuesta pendiente: cambiar "Solo uso el cowork" por **"Ninguna, solo vengo al Hub"** y agregar **"Otra razón"**.
+- **Limitaciones:** solo participaron 2 personas, porque el lugar de trabajo estaba con mucha gente. Las permanencias corresponden a su turno de trabajo y no al uso del Hub. El tiempo de registro no se cronometró; se medirá con los visitantes del stand en la feria.
+
+**Folletos de difusión**
+- Se diseñaron dos folletos en tamaño A3 con los colores del Hub: **"Regístrate una sola vez"** (beneficios de Hub Pass, gratis y con el QR para registrarse) y **"¿Te vas? Marca tu salida"** (cómo marcar la salida y por qué ayuda al Hub y a futuros proyectos).
+
+**Pitch de la feria**
+- El pitch lo presentarán **Gerzon y Amanda**. Gerzon parte con el problema y la solución, Amanda presenta la validación y Gerzon cierra invitando al stand.
+
+## 📌 Avances obtenidos
+- Segunda verificación: 34 de 34 pruebas superadas y 4 errores más corregidos.
+- Primera prueba con usuarias reales: 2 participantes, 2 observaciones que llevaron a ajustes.
+- "Situación actual" con selección múltiple.
+- Excel de visitas y de reservas disponibles en recepción.
+- Dos folletos de difusión diseñados.
+- Pitch organizado entre Gerzon y Amanda.
+
+## ⚠️ Problemas o dificultades
+- La página fue modificada sin coordinación y hubo que volver a una versión anterior.
+- Algunos arreglos que se dieron por terminados no funcionaban al probarlos.
+- Solo se pudo probar con 2 usuarias reales.
+- La restricción de horario del Hub sigue desactivada por las pruebas.
+
+## 📌 Tareas pendientes
+- Cronometrar el registro con los visitantes del stand en la feria.
+- Decidir si se cambia la opción "Solo uso el cowork" y se agrega "Otra razón".
+- Preparar el PPT del pitch para el ensayo del 1 de diciembre.
+- Volver a activar la restricción de horario y probarla antes de la feria.
+- Imprimir los folletos y preparar el stand (cartón, pegamento, demo y hoja de resultados).
+- Escribir el informe final (entrega el 7 de diciembre).
+
+## Evidencia 
+
+**Página modificada sin coordinación (26-11)**
+
+![📄 Página — Modificada (JPG)](evidencias/S11/S11.PaginaModificada.jpg)
+
+**Recepción solo confirma las reservas del día y muestra los acompañantes (27-11)**
+
+![📄 Recepción — Solo hoy (JPG)](evidencias/S11/S11.RecepcionSoloHoy.jpg)
+
+**Reserva de 2 bloques con acompañante, en una sola fila**
+
+![📄 Reserva — Acompañante (JPG)](evidencias/S11/S11.ReservaConAcompanante.jpg)
+
+**Regla de una reserva por persona al día**
+
+![📄 Reserva — Una por día (JPG)](evidencias/S11/S11.UnaReservaPorDia.jpg)
+
+**Formulario con "Situación actual" de selección múltiple (ajuste tras la prueba con usuarias reales)**
+
+![📄 Formulario — Situación múltiple (JPG)](evidencias/S11/S11.FormularioSituacionMultiple.jpg)
+
+**Excel de visitas, usuarios de prueba**: [S11.ExcelVisitas.csv](evidencias/S11/S11.ExcelVisitas.csv)
